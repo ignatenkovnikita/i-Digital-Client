@@ -1,0 +1,21 @@
+{
+    "name": "ignatenkovnikita/yii2-i-digital-client",
+    "description": "API Client i-Digital",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","i-digital","sms","push","viber"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ignatenkov Nikita",
+            "email": "ignatenkov.n@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "ignatenkovnikita\\idgtl\\": ""
+        }
+    }
+}
